@@ -1,4 +1,4 @@
-# "<Hello World>"
+# "</Hello World>"
 
 Hey, je me présente je m'appel Léo, où GabiFri sur internet.
 Je suis développeur, designer, réalisateur et photographe freelance. J'ai monter une "société"/structure nomé Galex.co qui est une société d'High-Tech et un groupe d'entreprise :
