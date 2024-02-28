@@ -1,16 +1,18 @@
-### Hi there 👋
+### <Hello World>
 
-<!--
-**gabifri/GabiFri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, je me présente je m'appel Léo, où GabiFri sur internet.
+Je suis développeur, designer, réalisateur et photographe freelance. J'ai monter une "société"/structure nomé Galex.co qui est une société d'High-Tech et un groupe d'entreprise :
 
-Here are some ideas to get you started:
+ - Galex.co
+   -> 16:9 Production
+       "Société de production AudioVisuel"
+   -> GalexWeb
+       "Web développement & design"
+   -> Ballon Game ET
+       "Studio de Jeux Vidéo"
+   -> GMix (en développement)
+       "Future Label de Musique"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis passioner par les nouvelles technologie, le cinéma et les domaines du spatial. J'essaye de développer mon activité en freelance avec Galex.co
+En espérant pouvoire vous aider !
+GAB
