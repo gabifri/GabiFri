@@ -17,6 +17,7 @@ Je suis passioner par les nouvelles technologie, le cinéma et les domaines du s
 En espérant pouvoire vous aider !
 GAB
 
+![Metrics](/github-metrics.svg)
 ## ⚙️ Programming Tools:
 <p>
   <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
