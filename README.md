@@ -10,8 +10,6 @@ Je suis développeur, designer, réalisateur et photographe freelance. J'ai mont
        "Web développement & design"
    - Ballon Game ET
        "Studio de Jeux Vidéo"
-   - GMix (en développement)
-       "Future Label de Musique"
 
 Je suis passioner par les nouvelles technologie, le cinéma et les domaines du spatial. J'essaye de développer mon activité en freelance avec Galex.co
 En espérant pouvoire vous aider !
